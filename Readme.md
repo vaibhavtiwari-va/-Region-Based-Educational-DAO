@@ -7,7 +7,10 @@ The Region-Based Educational DAO is a decentralized autonomous organization (DAO
 
 
 ## Contract Address
-0x22e38b801e60459aB29bC446c3eCf12950B51925
+
+
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/57a8a9b0-da13-4cc8-98a5-03f7cc7779dd" />
+
 
 
 ## Project Vision
